@@ -27,7 +27,7 @@
 
 - 🙋‍♂️ **Name:** Samir Niroula ||  समिर निरौला 
 - 📍 **Location:** Nepal 🇳🇵
-- ⚙️ **Focus:** Scalable Backend Architecture, APIs & Distributed Systems 🚀
+- ⚙️ **Focus:** Scalable Backend Architecture, APIs & Distributed Systems
 - 🎓 **Education:** BE Computer Engineering @ Tribhuvan University *(Currently loading...)*
 - ✉️ **Contact:** [samirniroula79@gmail.com](mailto:samirniroula79@gmail.com)
 
