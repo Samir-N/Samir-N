@@ -22,12 +22,23 @@
 
 ---
 # ⚡ About Me
+<table >
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>🙋‍♂️ <b>Name:</b> Samir Niroula || समिर निरौला</li>
+        <li>📍 <b>Location:</b> Nepal 🇳🇵</li>
+        <li>⚙️ <b>Focus:</b> Scalable Backend Architecture, APIs & Distributed Systems</li>
+        <li>🎓 <b>Education:</b> BE Computer Engineering @ Tribhuvan University <i>(Currently loading...)</i></li>
+        <li>✉️ <b>Contact:</b> <a href="mailto:samirniroula79@gmail.com">samirniroula79@gmail.com</a></li>
+      </ul>
+    </td>
+    <td align="center" valign="middle" width="200">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29vdm9jMDVqcWJxemV6aGVtbnhkY3duMTNkOTR4NHVkMTJiMG9pZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7spY8XLVu5xRgmDais/giphy.gif" width="160" alt="GIF" />
+    </td>
+  </tr>
+</table>
 
-- 🙋‍♂️ **Name:** Samir Niroula ||  समिर निरौला 
-- 📍 **Location:** Nepal 🇳🇵
-- ⚙️ **Focus:** Scalable Backend Architecture, APIs & Distributed Systems
-- 🎓 **Education:** BE Computer Engineering @ Tribhuvan University *(Currently loading...)*
-- ✉️ **Contact:** [samirniroula79@gmail.com](mailto:samirniroula79@gmail.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samirniroula24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samirniroula79@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Samir-N)
