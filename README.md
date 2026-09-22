@@ -23,8 +23,6 @@
 ---
 # ⚡ About Me
 
-<img align="right" src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" width="140" alt="Cat Typing" />
-
 - 🙋‍♂️ **Name:** Samir Niroula ||  समिर निरौला 
 - 📍 **Location:** Nepal 🇳🇵
 - ⚙️ **Focus:** Scalable Backend Architecture, APIs & Distributed Systems
